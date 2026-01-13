@@ -1,0 +1,1324 @@
+User: hi
+User: hi
+User: hello
+User: can i bid
+User: i want to place a bid
+User: why
+User: what is wrong
+2025-02-25 13:59:39 - User: hi
+2025-02-25 13:59:48 - User: what is auction
+2025-02-25 14:01:27 - User: hi
+2025-02-25 14:01:35 - User: what is this
+2025-02-25 14:05:15 - User: hi
+2025-02-25 14:05:15 - Matches Found: 0
+2025-02-25 14:05:15 - Stored Unknown Query: hi
+2025-02-25 14:05:45 - User: i want to register
+2025-02-25 14:05:45 - Matches Found: 0
+2025-02-25 14:05:46 - Stored Unknown Query: i want to register
+2025-02-25 14:06:08 - User: what is auction
+2025-02-25 14:06:08 - Matches Found: 0
+2025-02-25 14:06:08 - Stored Unknown Query: what is auction
+2025-02-25 14:07:18 - User: hi
+2025-02-25 14:07:18 - Matches Found: 0
+2025-02-25 14:07:18 - Stored Unknown Query: hi
+2025-02-25 14:07:23 - User: can i bid
+2025-02-25 14:07:34 - User: what is auction
+2025-02-25 14:07:34 - Matches Found: 0
+2025-02-25 14:07:34 - Stored Unknown Query: what is auction
+2025-02-25 14:07:59 - User: can i place a bid before i login
+2025-02-25 14:07:59 - Matches Found: 0
+2025-02-25 14:07:59 - Stored Unknown Query: can i place a bid before i login
+2025-02-25 14:08:08 - User: hello
+2025-02-25 14:08:08 - Matches Found: 0
+2025-02-25 14:08:08 - Stored Unknown Query: hello
+2025-02-25 14:08:16 - User: what is wrong
+2025-02-25 14:08:16 - Matches Found: 0
+2025-02-25 14:08:16 - Stored Unknown Query: what is wrong
+2025-02-25 14:08:31 - User: want to register
+2025-02-25 14:08:31 - Matches Found: 0
+2025-02-25 14:08:31 - Stored Unknown Query: want to register
+2025-02-25 14:13:14 - User: hi
+2025-02-25 14:13:14 - Matches Found: 0
+2025-02-25 14:13:14 - Stored Unknown Query: hi
+2025-02-25 14:13:20 - User: can i bid
+2025-02-25 14:16:13 - User: hi
+2025-02-25 14:16:13 - Matches Found: 0
+2025-02-25 14:16:13 - Stored Unknown Query: hi
+2025-02-25 14:16:23 - User: can i bid
+2025-02-25 14:20:47 - User: hi
+2025-02-25 14:20:47 - Matches Found: 0
+2025-02-25 14:20:47 - Stored Unknown Query: hi
+2025-02-25 14:21:00 - User: can i bid
+2025-02-25 14:21:09 - User: what is auction
+2025-02-25 14:21:09 - Matches Found: 0
+2025-02-25 14:21:09 - Stored Unknown Query: what is auction
+2025-02-25 14:22:11 - User: hi
+2025-02-25 14:22:11 - Matches Found: 0
+2025-02-25 14:22:11 - Stored Unknown Query: hi
+2025-02-25 14:22:18 - User: can i bid
+2025-02-25 14:22:37 - User: what is auction
+2025-02-25 14:22:37 - Matches Found: 0
+2025-02-25 14:22:37 - Stored Unknown Query: what is auction
+2025-02-25 14:22:46 - User: want to register
+2025-02-25 14:22:46 - Matches Found: 0
+2025-02-25 14:22:46 - Stored Unknown Query: want to register
+2025-02-25 14:22:58 - User: what is wrong
+2025-02-25 14:22:58 - Matches Found: 0
+2025-02-25 14:22:58 - Stored Unknown Query: what is wrong
+2025-02-25 14:28:58 - User: hi
+2025-02-25 14:28:58 - Matches Found: 1
+2025-02-25 14:29:20 - User: i want to register
+2025-02-25 14:29:20 - Matches Found: 0
+2025-02-25 14:29:20 - Stored Unknown Query: i want to register
+2025-02-25 14:29:30 - User: hey
+2025-02-25 14:29:30 - Matches Found: 1
+2025-02-25 14:30:58 - User: i want to register
+2025-02-25 14:30:58 - Matches Found: 0
+2025-02-25 14:30:58 - Stored Unknown Query: i want to register
+2025-02-25 14:34:43 - User: want to register
+2025-02-25 14:34:43 - Matches Found: 0
+2025-02-25 14:34:43 - Stored Unknown Query: want to register
+2025-02-25 14:34:55 - User: register
+2025-02-25 14:34:55 - Matches Found: 1
+2025-02-25 14:35:19 - User: i want to sign up
+2025-02-25 14:35:19 - Matches Found: 0
+2025-02-25 14:35:19 - Stored Unknown Query: i want to sign up
+2025-02-25 14:35:28 - User: sign up
+2025-02-25 14:35:28 - Matches Found: 1
+2025-02-25 14:36:11 - User: how do i sign up
+2025-02-25 14:36:11 - Matches Found: 0
+2025-02-25 14:36:11 - Stored Unknown Query: how do i sign up
+2025-02-25 14:39:01 - User: hi
+2025-02-25 14:39:01 - Matches Found: 1
+2025-02-25 14:39:10 - User: i want to register
+2025-02-25 14:39:10 - Matches Found: 0
+2025-02-25 14:39:10 - Stored Unknown Query: i want to register
+2025-02-25 14:39:28 - User: register
+2025-02-25 14:39:28 - Matches Found: 1
+2025-02-25 14:44:47 - User: hi
+2025-02-25 14:44:47 - Matches Found: 1
+2025-02-25 14:44:55 - User: i want to register
+2025-02-25 14:44:55 - Matches Found: 0
+2025-02-25 14:44:55 - Stored Unknown Query: i want to register
+2025-02-25 14:45:03 - User: can i bid
+2025-02-25 14:45:32 - User: can i talk to support team
+2025-02-25 14:45:32 - Matches Found: 0
+2025-02-25 14:45:32 - Stored Unknown Query: can i talk to support team
+2025-02-25 14:46:27 - User: hi
+2025-02-25 14:46:27 - Matches Found: 0
+2025-02-25 14:46:27 - Stored Unknown Query: hi
+2025-02-25 14:46:39 - User: i want to register
+2025-02-25 14:46:39 - Matches Found: 1
+2025-02-25 14:46:58 - User: can i sign up
+2025-02-25 14:46:58 - Matches Found: 1
+2025-02-25 14:47:07 - User: how can i bid
+2025-02-25 14:47:15 - User: hey
+2025-02-25 14:47:15 - Matches Found: 1
+2025-02-25 14:47:31 - User: what is auction
+2025-02-25 14:47:31 - Matches Found: 1
+2025-02-25 14:48:41 - User: can i log in without an account
+2025-02-25 14:48:41 - Matches Found: 1
+2025-02-25 14:51:00 - User: how can i place a bid
+2025-02-25 14:51:00 - Matches Found: 1
+2025-02-25 14:51:37 - User: can you explain how to bid
+2025-02-25 14:51:37 - Matches Found: 1
+2025-02-25 14:52:39 - User: i don’t want to miss any auctions', 'enable notifications or subscribe to our auction alerts to stay updated.
+2025-02-25 14:52:39 - Matches Found: 1
+2025-02-25 14:54:23 - User: i don’t want to use auto-bidding
+2025-02-25 14:54:23 - Matches Found: 0
+2025-02-25 14:54:23 - Stored Unknown Query: i don’t want to use auto-bidding
+2025-02-25 14:55:12 - User: i don’t want to receive promotional messages
+2025-02-25 14:55:12 - Matches Found: 0
+2025-02-25 14:55:12 - Stored Unknown Query: i don’t want to receive promotional messages
+2025-02-25 15:03:28 - User: hi
+2025-02-25 15:03:28 - Matches Found: 0
+2025-02-25 15:03:28 - Stored Unknown Query: hi
+2025-02-25 15:03:42 - User: i want to register
+2025-02-25 15:03:49 - User: i want to login
+2025-02-25 15:04:11 - User: i want to place a bid
+2025-02-25 15:04:11 - Matches Found: 1
+2025-02-25 15:04:26 - User: what is auction
+2025-02-25 15:04:26 - Matches Found: 1
+2025-02-25 15:04:54 - User: hey
+2025-02-25 15:04:54 - Matches Found: 1
+2025-02-25 15:05:26 - User: can i talk to support team
+2025-02-25 15:05:26 - Matches Found: 0
+2025-02-25 15:05:26 - Stored Unknown Query: can i talk to support team
+2025-02-25 15:13:31 - User: what is the time
+2025-02-25 15:13:31 - Matches Found: 0
+2025-02-25 15:13:32 - Stored Unknown Query: what is the time
+2025-02-25 15:13:41 - User: what is the date
+2025-02-25 15:13:41 - Matches Found: 0
+2025-02-25 15:13:41 - Stored Unknown Query: what is the date
+2025-02-25 15:17:21 - User: what is the time
+2025-02-25 15:17:38 - User: what is the date
+2025-02-25 15:18:26 - User: what is auction
+2025-02-25 15:18:26 - Matches Found: 1
+2025-02-25 15:21:20 - User: what is the time
+2025-02-25 15:21:28 - User: what is the date
+2025-02-25 15:21:35 - User: what is auction
+2025-02-25 15:24:27 - User: how can i contact support
+2025-02-25 15:30:09 - User: what if i forget my password
+2025-02-25 15:31:03 - User: how do i upgrade to a seller account
+2025-02-25 15:33:15 - User: what is auction
+2025-02-25 15:33:51 - User: not working
+2025-02-25 15:34:21 - User: why is it that my account is no t working
+2025-02-25 15:36:11 - User: i can't login into my account
+2025-02-25 15:36:35 - User: my account has an issue
+2025-02-25 15:37:14 - User: my account is not working what can i do
+2025-02-25 15:37:44 - User: please help me solve it
+2025-02-25 15:38:02 - User: i want to fix my account
+2025-02-25 15:38:10 - User: it has an issue
+2025-02-25 15:38:41 - User: my item did not reach
+2025-02-25 15:39:22 - User: i didn't mean that
+2025-02-25 15:39:43 - User: i really want help
+2025-02-25 15:43:25 - User: hi
+2025-02-25 15:45:52 - User: can i reach support team
+2025-02-25 15:50:20 - User: see you later
+2025-02-25 15:50:31 - User: bye
+2025-02-25 15:50:57 - User: say something funny
+2025-02-25 15:51:11 - User: make me laugh
+2025-02-25 17:23:05 - User: how do i plan for disaster recovery
+2025-02-25 17:23:19 - User: can i bid
+2025-02-25 17:23:43 - User: i have already login
+2025-02-25 17:24:02 - User: what is the time
+2025-02-25 17:24:15 - User: that is a wrong time
+2025-02-25 17:24:32 - User: what is the date
+2025-02-25 17:24:54 - User: what do you know
+2025-02-25 17:25:25 - User: give all  auction rules
+2025-02-25 17:26:24 - User: give me all the steps that i should follow to create my account
+2025-02-25 17:31:28 - User: give me all steps to follow for me to make an account
+2025-02-25 17:32:28 - User: how to create an a seller account
+2025-02-26 08:56:15 - User: hi
+2025-02-26 08:56:24 - User: can i bid
+2025-02-26 08:56:52 - User: i already have an account
+2025-02-26 08:57:57 - User: i don't want to delete an account i have an it already i want now to bid
+2025-02-26 08:58:26 - User: now how can i bid
+2025-02-26 08:59:07 - User: all the steps to follow to make an account
+2025-02-26 09:00:02 - User: why are you not helping
+2025-02-26 09:00:39 - User: can i talk with the support team
+2025-02-26 09:01:16 - User: how can i register as a seller
+2025-02-26 09:02:34 - User: can i bid before logining
+2025-02-26 09:03:03 - User: what is the time
+2025-02-26 09:03:16 - User: what is the date
+2025-02-26 09:17:33 - User: hi
+2025-02-26 09:17:44 - User: hello
+2025-02-26 09:17:54 - User: can i place a bid
+2025-02-26 09:18:09 - User: what it wrong
+2025-02-26 09:18:20 - User: can i bid
+2025-02-26 09:19:03 - User: can i create an account
+2025-02-26 09:24:08 - User: hi
+2025-02-26 09:24:15 - User: hello
+2025-02-26 09:24:24 - User: can i bid
+2025-02-26 09:24:55 - User: can i register account
+2025-02-26 09:25:25 - User: what is auction
+2025-02-26 09:26:04 - User: hi
+2025-02-26 09:26:27 - User: can i register an account
+2025-02-26 09:26:56 - User: i already have an account
+2025-02-26 09:27:34 - User: i don't want to delete my account
+2025-02-26 09:28:37 - User: can i bid
+2025-02-26 09:29:13 - User: i already logged in
+2025-02-26 10:04:00 - User: hi
+2025-02-26 10:05:24 - User: can i create an account
+2025-02-26 10:05:47 - User: i already logged in
+2025-02-26 10:06:27 - User: what is auction
+2025-02-26 10:06:48 - User: hello
+2025-02-26 10:07:02 - User: i have problem with my account
+2025-02-26 10:07:52 - User: i don't want to delete my account
+2025-02-26 10:08:24 - User: i only have a problem with my account
+2025-02-26 10:21:27 - User: hi
+2025-02-26 10:21:38 - User: hello
+2025-02-26 10:21:52 - User: can i create an account
+2025-02-26 10:22:09 - User: i already have an account
+2025-02-26 10:22:28 - User: am already in my account
+2025-02-26 10:22:43 - User: can i bid
+2025-02-26 10:22:54 - User: i want to place a bid
+2025-02-26 10:23:16 - User: what is that now
+2025-02-26 10:42:08 - User: hello
+2025-02-26 10:44:59 - User: can i bid
+2025-02-26 10:45:42 - User: i already have an account
+2025-02-26 10:46:06 - User: i have an account
+2025-02-26 10:47:04 - User: i have an account
+2025-02-26 10:47:20 - User: i dont have an issue
+2025-02-26 10:47:43 - User: what is auction
+2025-02-26 10:47:57 - User: auction
+2025-02-26 10:53:25 - User: hello
+2025-02-26 10:54:34 - User: can i register
+2025-02-26 10:54:47 - User: i already have an account
+2025-02-26 10:55:11 - User: am logged in
+2025-02-26 10:55:34 - User: what are the items on auction
+2025-02-26 10:59:53 - User: hello
+2025-02-26 10:59:59 - User: can i bid
+2025-02-26 11:00:24 - User: even when i don't have the acount
+2025-02-26 11:06:15 - User: what is the time
+2025-02-26 11:06:34 - User: what is the date
+2025-02-26 11:08:21 - User: what is the time
+2025-02-26 11:08:34 - User: can i bid
+2025-02-26 11:08:44 - User: what is auction
+2025-02-26 11:14:59 - User: hi
+2025-02-26 11:15:06 - User: hello
+2025-02-26 11:15:14 - User: what is the time
+2025-02-26 11:15:24 - User: what is the date
+2025-02-26 11:15:33 - User: can i bid
+2025-02-26 11:15:48 - User: i want to register
+2025-02-26 11:16:11 - User: i want to login
+2025-02-26 11:17:26 - User: how do i delete my account
+2025-02-26 11:17:58 - User: what if i forget my password
+2025-02-26 11:18:26 - User: how do i create an account
+2025-02-26 11:19:00 - User: what are the auction rules
+2025-02-26 11:26:58 - User: hi
+2025-02-26 11:27:11 - User: i love this
+2025-02-26 11:27:19 - User: yes
+2025-02-26 11:36:34 - User: hi
+2025-02-26 11:36:58 - User: i want to bid
+2025-02-26 11:37:18 - User: cant i place a bid
+2025-02-26 11:39:17 - User: can i register
+2025-02-26 11:39:59 - User: can i signup
+2025-02-26 11:41:05 - User: hi
+2025-02-26 11:41:13 - User: can i bid
+2025-02-26 11:41:27 - User: how can i bid
+2025-02-26 11:45:56 - User: hi
+2025-02-26 11:46:04 - User: can i bid
+2025-02-26 11:46:19 - User: can i register
+2025-02-26 11:46:57 - User: i want to bid
+2025-02-26 11:47:16 - User: i have an issue
+2025-02-26 11:47:50 - User: i can't login into my account
+2025-02-26 11:51:45 - User: hi
+2025-02-26 11:51:50 - User: hello
+2025-02-26 11:51:59 - User: can i register
+2025-02-26 11:55:06 - User: hi
+2025-02-26 11:55:10 - User: can i bid
+2025-02-26 11:55:20 - User: how do i do that
+2025-02-26 11:55:49 - User: i want you to show me that
+2025-02-26 11:56:29 - User: where can i get blog
+2025-02-26 12:02:27 - User: hi
+2025-02-26 12:02:44 - User: csn i bid
+2025-02-26 12:02:58 - User: thank you
+2025-02-26 12:03:28 - User: can i register
+2025-02-26 12:11:40 - User: hi
+2025-02-26 12:11:48 - User: can bid
+2025-02-26 12:12:00 - User: can i register
+2025-02-26 12:18:00 - User: hi
+2025-02-26 12:18:09 - User: can i bid
+2025-02-26 12:18:53 - User: what are some of the items in the auction
+2025-02-26 12:20:30 - User: can i bid
+2025-02-26 12:55:01 - User: how can i place a bide
+2025-02-26 12:55:39 - User: what if i want to  sell
+2025-02-26 12:56:46 - User: i logged in and registered as a buyer but i have not been approved  yet
+2025-02-26 12:57:34 - User: i want  tobe a seller
+2025-02-26 12:58:02 - User: iwant my account to be approved
+2025-02-26 12:59:05 - User: i dont want to delete my account  iwant it to be approved
+2025-02-26 12:59:37 - User: are you able to approve my account
+2025-02-26 13:00:43 - User: are you only dealing withj auctioning or you can also              assistme with my school work
+2025-02-26 19:19:33 - User: hello
+2025-02-26 19:19:39 - User: can i bid
+2025-02-26 19:19:52 - User: how
+2025-02-27 12:38:28 - User: hi
+2025-02-27 12:38:35 - User: can i bid
+2025-02-27 12:38:44 - User: what is the time
+2025-02-27 12:38:51 - User: what is the date
+2025-02-27 12:39:14 - User: tell me anything you know
+2025-02-27 12:39:36 - User: tell me about auction
+2025-02-27 12:39:55 - User: what about timed auction
+2025-02-27 12:40:20 - User: what is the different between the two
+2025-02-27 12:41:04 - User: how do one become a buyer or a seller
+2025-02-27 12:41:36 - User: can one bid without an account
+2025-02-27 12:41:53 - User: i don't have an account
+2025-02-27 12:42:11 - User: steps to register
+2025-02-27 12:43:01 - User: what if i forget password
+2025-02-27 13:40:55 - User: i can't login to my account
+2025-02-27 13:41:34 - User: can you help me with school work
+2025-02-27 13:57:34 - User: how do i pick the right course
+2025-02-27 13:59:09 - User: how do i manage my time
+2025-02-27 13:59:45 - User: how do i balance school and life
+2025-02-27 14:02:48 - User: how do i write a research paper?
+2025-02-27 14:03:54 - User: how do i manage stress?
+2025-02-27 14:06:18 - User: am not approved as a seller yet
+2025-02-27 14:07:04 - User: how long does it take to be approved
+2025-02-27 14:55:02 - User: how can i register
+2025-02-27 14:55:25 - User: stress management
+2025-02-27 19:33:13 - User: hi
+2025-02-27 19:33:22 - User: can i help me
+2025-02-27 19:33:38 - User: what are the steps to register
+2025-02-27 19:34:02 - User: hi
+2025-02-27 19:34:09 - User: can you help me
+2025-02-27 19:34:20 - User: what are the steps to register
+2025-02-27 19:34:54 - User: what elese
+2025-02-27 19:35:19 - User: how can i manage stress
+2025-02-27 20:02:45 - User: hello
+2025-02-27 20:03:44 - User: how do we do
+2025-02-27 21:08:13 - User: ninawezaje kufanya maoni kwa tovuti
+2025-02-27 21:10:50 - User: hujambo
+2025-02-27 22:11:29 - User: ninawezaje kufanya maoni kuhusu huduma?
+2025-02-27 22:13:02 - User: ninawezaje kutoa maoni kwa company
+2025-02-27 22:14:31 - User: muda gani inachukua kuthibitishwa
+2025-02-27 22:23:36 - User: habary
+2025-02-27 22:23:49 - User: habari
+2025-02-27 22:47:43 - User: ninawezaje kufanya mazoezi ya moyo?
+2025-02-27 22:48:34 - User: ninawezaje kujikinga na magonjwa?
+2025-02-27 22:50:29 - User: ninawezaje kupata burudani
+2025-02-27 22:51:09 - User: ninawezaje kusafiri kwa gari
+2025-02-27 23:14:40 - User: hello
+2025-02-27 23:14:50 - User: how are you
+2025-02-27 23:15:03 - User: how can you help me
+2025-02-27 23:15:21 - User: help me bidding
+2025-02-27 23:16:07 - User: what happens when two people bid the same amount
+2025-02-27 23:16:42 - User: what is i forget my password
+2025-02-27 23:19:22 - User: give examples
+2025-02-28 10:28:52 - User: habari ya leo
+2025-02-28 10:29:09 - User: leo no siku gani
+2025-02-28 10:29:21 - User: what is the date
+2025-02-28 10:29:36 - User: what is the time
+2025-02-28 19:10:27 - User: how can i pay
+2025-02-28 19:10:54 - User: who is my girlfriend
+2025-02-28 19:11:44 - User: who is my girlfriend
+2025-02-28 19:16:12 - User: what is the atomic number of hydrogen?
+2025-02-28 19:17:54 - User: what is the atomic number of hydrogen?
+2025-02-28 19:18:35 - User: what is the atomic number of hydrogen?
+2025-02-28 19:21:02 - User: what is the difference between an acid and a base?
+2025-02-28 19:23:23 - User: what is a hydrocarbon?
+2025-02-28 19:24:05 - User: what is the atomic number of hydrogen?
+2025-02-28 19:24:46 - User: who is my girlfriend
+2025-02-28 19:25:53 - User: what is the difference between a homogeneous and a heterogeneous mixture?
+2025-02-28 19:27:28 - User: what is a covalent bond?
+2025-02-28 19:29:37 - User: what is the arrhenius equation?
+2025-02-28 19:31:02 - User: 'what is the difference between an element and a compound?
+2025-02-28 19:32:56 - User: what is an atom
+2025-02-28 19:38:40 - User: who is my girlfriend
+2025-02-28 19:39:17 - User: who is my girlfriend
+2025-02-28 19:41:37 - User: who is my girlfriend?
+2025-02-28 19:47:12 - User: how can i find my purpose in life?
+2025-02-28 19:48:11 - User: how can i live a life of abundance?
+2025-02-28 19:49:51 - User: how can i live a life of abundance?
+2025-02-28 19:50:14 - User: jinzi ya kufanya malipo
+2025-02-28 19:50:49 - User: what is the ph scale?
+2025-02-28 19:51:23 - User: what is the difference between a physical change and a chemical change?
+2025-02-28 19:51:48 - User: what is a hydrocarbon?
+2025-02-28 19:52:13 - User: what is the value of friendship in life?
+2025-02-28 19:55:35 - User: how can i live a life of abundance?
+2025-02-28 19:58:14 - User: what is a polymer
+2025-02-28 19:58:41 - User: give the meaning of polymer
+2025-02-28 19:59:33 - User: how can i live a life of abundance?
+2025-02-28 20:00:12 - User: life of abundance?
+2025-02-28 20:00:54 - User: what is the importance of giving back in life?
+2025-02-28 20:02:20 - User: hat is the importance of balance in life?
+2025-02-28 20:02:46 - User: what is the importance of balance in life?
+2025-02-28 20:03:03 - User: importance of balance in life?
+2025-02-28 20:03:45 - User: hat is the meaning of life?
+2025-02-28 20:04:15 - User: what is the secret to happiness?
+2025-02-28 20:08:12 - User: what is the meaning of life?
+2025-02-28 20:08:31 - User: what is the meaning of life?
+2025-02-28 20:17:04 - User: How can I live a life of abundance?
+2025-02-28 20:17:42 - User: How do I find clarity in life?
+2025-02-28 20:18:06 - User: how do I find clarity in life?
+2025-02-28 20:18:40 - User: What is the importance of balance in life?
+2025-02-28 20:25:19 - User: How can I live a life of abundance?
+2025-02-28 20:30:32 - User: How can I live a life of abundance?
+2025-02-28 20:30:32 - Normalized Input: how can i live a life of abundance
+2025-02-28 20:31:23 - User: What is the importance of balance in life?
+2025-02-28 20:31:23 - Normalized Input: what is the importance of balance in life
+2025-02-28 20:31:41 - User: How can I live a life of abundance?
+2025-02-28 20:31:41 - Normalized Input: how can i live a life of abundance
+2025-02-28 20:36:14 - User: How can I live a life of abundance?
+2025-02-28 20:36:14 - Normalized Input: how can i live a life of abundance
+2025-02-28 20:40:12 - User: How can I live a life of abundance?
+2025-02-28 20:40:12 - Normalized Input: how can i live a life of abundance
+2025-02-28 20:40:41 - User: What is the importance of balance in life?
+2025-02-28 20:40:41 - Normalized Input: what is the importance of balance in life
+2025-02-28 20:50:25 - User: what is the date
+2025-02-28 20:50:37 - User: what is the time
+2025-02-28 20:55:36 - User: How can I live a life of abundance?
+2025-02-28 20:55:36 - Normalized Input: how can i live a life of abundance
+2025-02-28 20:57:01 - User: What is the importance of balance in life?
+2025-02-28 20:57:01 - Normalized Input: what is the importance of balance in life
+2025-02-28 20:57:01 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the importance of balance in life' ORDER BY priority DESC LIMIT 1
+2025-02-28 20:57:01 - Keyword Matching Query: SELECT bot_response FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the importance of balance in life' IN BOOLEAN MODE) ORDER BY priority DESC LIMIT 1
+2025-02-28 20:57:01 - Matched Response: The meaning of life is a philosophical question that varies for each individual. Some believe it is to seek happiness, while others think it is to contribute to the world.
+2025-02-28 20:57:19 - User: How can I live a life of abundance?
+2025-02-28 20:57:19 - Normalized Input: how can i live a life of abundance
+2025-02-28 20:57:19 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how can i live a life of abundance' ORDER BY priority DESC LIMIT 1
+2025-02-28 20:57:19 - Keyword Matching Query: SELECT bot_response FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how can i live a life of abundance' IN BOOLEAN MODE) ORDER BY priority DESC LIMIT 1
+2025-02-28 20:57:19 - Matched Response: You can place a bid by logging in and selecting an auction item. Just click 'Place Bid'!
+2025-02-28 20:58:17 - User: How do I find joy in the little things in life?
+2025-02-28 20:58:17 - Normalized Input: how do i find joy in the little things in life
+2025-02-28 20:58:17 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how do i find joy in the little things in life' ORDER BY priority DESC LIMIT 1
+2025-02-28 20:58:17 - Keyword Matching Query: SELECT bot_response FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how do i find joy in the little things in life' IN BOOLEAN MODE) ORDER BY priority DESC LIMIT 1
+2025-02-28 20:58:17 - Matched Response: Networking tips:
+1. **Attend Events**: Join conferences, seminars, and workshops.
+2. **Use LinkedIn**: Connect with professionals in your field.
+3. **Be Genuine**: Show interest in others and build relationships.
+4. **Follow Up**: Send thank-you notes or emails after meeting someone.
+5. **Offer Help**: Share your skills and knowledge with others.
+6. **Stay in Touch**: Keep your network active by checking in regularly.
+Networking opens doors!
+2025-02-28 20:59:12 - User: What is the role of family in life?
+2025-02-28 20:59:12 - Normalized Input: what is the role of family in life
+2025-02-28 20:59:12 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the role of family in life' ORDER BY priority DESC LIMIT 1
+2025-02-28 20:59:12 - Keyword Matching Query: SELECT bot_response FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the role of family in life' IN BOOLEAN MODE) ORDER BY priority DESC LIMIT 1
+2025-02-28 20:59:12 - Matched Response: The meaning of life is a philosophical question that varies for each individual. Some believe it is to seek happiness, while others think it is to contribute to the world.
+2025-02-28 20:59:41 - User: What is an ion?
+2025-02-28 20:59:41 - Normalized Input: what is an ion
+2025-02-28 20:59:41 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is an ion' ORDER BY priority DESC LIMIT 1
+2025-02-28 20:59:41 - Keyword Matching Query: SELECT bot_response FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is an ion' IN BOOLEAN MODE) ORDER BY priority DESC LIMIT 1
+2025-02-28 20:59:41 - Matched Response: An ion is an atom or molecule that has a net electrical charge due to the loss or gain of one or more electrons.
+2025-02-28 21:00:11 - User: What is the law of conservation of mass?
+2025-02-28 21:00:11 - Normalized Input: what is the law of conservation of mass
+2025-02-28 21:00:11 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the law of conservation of mass' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:00:11 - Keyword Matching Query: SELECT bot_response FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the law of conservation of mass' IN BOOLEAN MODE) ORDER BY priority DESC LIMIT 1
+2025-02-28 21:00:11 - Matched Response: The law of conservation of mass states that mass is neither created nor destroyed in a chemical reaction; it is conserved.
+2025-02-28 21:00:54 - User: What is the difference between an element and a compound?
+2025-02-28 21:00:54 - Normalized Input: what is the difference between an element and a compound
+2025-02-28 21:00:54 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the difference between an element and a compound' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:00:54 - Keyword Matching Query: SELECT bot_response FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the difference between an element and a compound' IN BOOLEAN MODE) ORDER BY priority DESC LIMIT 1
+2025-02-28 21:00:54 - Matched Response: Live auctions happen in real time with fast-paced bidding, while timed auctions run over a set period with bids placed at any time.
+2025-02-28 21:01:46 - User: What is the difference between an element and a compound?
+2025-02-28 21:01:46 - Normalized Input: what is the difference between an element and a compound
+2025-02-28 21:01:46 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the difference between an element and a compound' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:01:46 - Keyword Matching Query: SELECT bot_response FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the difference between an element and a compound' IN BOOLEAN MODE) ORDER BY priority DESC LIMIT 1
+2025-02-28 21:01:46 - Matched Response: Live auctions happen in real time with fast-paced bidding, while timed auctions run over a set period with bids placed at any time.
+2025-02-28 21:02:30 - User: How do I stay motivated in life?
+2025-02-28 21:02:30 - Normalized Input: how do i stay motivated in life
+2025-02-28 21:02:30 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how do i stay motivated in life' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:02:30 - Keyword Matching Query: SELECT bot_response FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how do i stay motivated in life' IN BOOLEAN MODE) ORDER BY priority DESC LIMIT 1
+2025-02-28 21:02:30 - Matched Response: Staying motivated:
+1. **Set Clear Goals**: Break them into small, achievable steps.
+2. **Track Progress**: Celebrate small wins along the way.
+3. **Find Inspiration**: Read success stories or motivational quotes.
+4. **Stay Positive**: Focus on what you can control.
+5. **Take Care of Yourself**: Sleep, eat well, and exercise.
+6. **Ask for Support**: Share your goals with friends or mentors.
+You’ve got this!
+2025-02-28 21:09:49 - User: What is the difference between an element and a compound?
+2025-02-28 21:09:49 - Normalized Input: what is the difference between an element and a compound
+2025-02-28 21:09:49 - Combined Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the difference between an element and a compound' OR MATCH(keywords) AGAINST('what is the difference between an element and a compound' IN BOOLEAN MODE) ORDER BY CASE WHEN LOWER(user_input) = 'what is the difference between an element and a compound' THEN 1 ELSE 2 END, priority DESC LIMIT 1
+2025-02-28 21:09:49 - Matched Response: Live auctions happen in real time with fast-paced bidding, while timed auctions run over a set period with bids placed at any time.
+2025-02-28 21:10:28 - User: What is the role of enzymes in chemical reactions?
+2025-02-28 21:10:28 - Normalized Input: what is the role of enzymes in chemical reactions
+2025-02-28 21:10:28 - Combined Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the role of enzymes in chemical reactions' OR MATCH(keywords) AGAINST('what is the role of enzymes in chemical reactions' IN BOOLEAN MODE) ORDER BY CASE WHEN LOWER(user_input) = 'what is the role of enzymes in chemical reactions' THEN 1 ELSE 2 END, priority DESC LIMIT 1
+2025-02-28 21:10:28 - Matched Response: Stoichiometry is the calculation of reactants and products in chemical reactions using balanced chemical equations.
+2025-02-28 21:10:47 - User: What is the octet rule?
+2025-02-28 21:10:47 - Normalized Input: what is the octet rule
+2025-02-28 21:10:47 - Combined Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the octet rule' OR MATCH(keywords) AGAINST('what is the octet rule' IN BOOLEAN MODE) ORDER BY CASE WHEN LOWER(user_input) = 'what is the octet rule' THEN 1 ELSE 2 END, priority DESC LIMIT 1
+2025-02-28 21:10:47 - Matched Response: The octet rule states that atoms tend to form bonds in such a way that they have eight electrons in their valence shell, achieving a stable electron configuration.
+2025-02-28 21:11:03 - User: What is the difference between a physical change and a chemical change?
+2025-02-28 21:11:03 - Normalized Input: what is the difference between a physical change and a chemical change
+2025-02-28 21:11:03 - Combined Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the difference between a physical change and a chemical change' OR MATCH(keywords) AGAINST('what is the difference between a physical change and a chemical change' IN BOOLEAN MODE) ORDER BY CASE WHEN LOWER(user_input) = 'what is the difference between a physical change and a chemical change' THEN 1 ELSE 2 END, priority DESC LIMIT 1
+2025-02-28 21:11:03 - Matched Response: Once placed, bids cannot be canceled. Make sure to bid carefully!
+2025-02-28 21:11:52 - User: What is a Lewis structure?
+2025-02-28 21:11:52 - Normalized Input: what is a lewis structure
+2025-02-28 21:11:52 - Combined Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is a lewis structure' OR MATCH(keywords) AGAINST('what is a lewis structure' IN BOOLEAN MODE) ORDER BY CASE WHEN LOWER(user_input) = 'what is a lewis structure' THEN 1 ELSE 2 END, priority DESC LIMIT 1
+2025-02-28 21:11:52 - Matched Response: A Lewis structure is a diagram that represents the valence electrons of atoms within a molecule, showing how electrons are shared or transferred.
+2025-02-28 21:12:09 - User: What is the Heisenberg Uncertainty Principle?
+2025-02-28 21:12:09 - Normalized Input: what is the heisenberg uncertainty principle
+2025-02-28 21:12:09 - Combined Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the heisenberg uncertainty principle' OR MATCH(keywords) AGAINST('what is the heisenberg uncertainty principle' IN BOOLEAN MODE) ORDER BY CASE WHEN LOWER(user_input) = 'what is the heisenberg uncertainty principle' THEN 1 ELSE 2 END, priority DESC LIMIT 1
+2025-02-28 21:12:09 - Matched Response: The Heisenberg Uncertainty Principle states that it is impossible to simultaneously know the exact position and momentum of a particle.
+2025-02-28 21:12:42 - User: What is the difference between a homogeneous and a heterogeneous mixture?
+2025-02-28 21:12:42 - Normalized Input: what is the difference between a homogeneous and a heterogeneous mixture
+2025-02-28 21:12:42 - Combined Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the difference between a homogeneous and a heterogeneous mixture' OR MATCH(keywords) AGAINST('what is the difference between a homogeneous and a heterogeneous mixture' IN BOOLEAN MODE) ORDER BY CASE WHEN LOWER(user_input) = 'what is the difference between a homogeneous and a heterogeneous mixture' THEN 1 ELSE 2 END, priority DESC LIMIT 1
+2025-02-28 21:12:42 - Matched Response: Live auctions happen in real time with fast-paced bidding, while timed auctions run over a set period with bids placed at any time.
+2025-02-28 21:13:39 - User: What is the difference between a homogeneous and a heterogeneous mixture?
+2025-02-28 21:13:39 - Normalized Input: what is the difference between a homogeneous and a heterogeneous mixture
+2025-02-28 21:13:39 - Combined Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the difference between a homogeneous and a heterogeneous mixture' OR MATCH(keywords) AGAINST('what is the difference between a homogeneous and a heterogeneous mixture' IN BOOLEAN MODE) ORDER BY CASE WHEN LOWER(user_input) = 'what is the difference between a homogeneous and a heterogeneous mixture' THEN 1 ELSE 2 END, priority DESC LIMIT 1
+2025-02-28 21:13:39 - Matched Response: Live auctions happen in real time with fast-paced bidding, while timed auctions run over a set period with bids placed at any time.
+2025-02-28 21:18:35 - User: What is the difference between a homogeneous and a heterogeneous mixture?
+2025-02-28 21:18:35 - Normalized Input: what is the difference between a homogeneous and a heterogeneous mixture
+2025-02-28 21:18:35 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the difference between a homogeneous and a heterogeneous mixture' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:18:35 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is the difference between a homogeneous and a heterogeneous mixture' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the difference between a homogeneous and a heterogeneous mixture' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:18:35 - Matched Response: A homogeneous mixture has a uniform composition throughout, while a heterogeneous mixture has a non-uniform composition. (Score: 35.768505096436)
+2025-02-28 21:18:59 - User: What is the difference between a physical change and a chemical change?
+2025-02-28 21:18:59 - Normalized Input: what is the difference between a physical change and a chemical change
+2025-02-28 21:18:59 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the difference between a physical change and a chemical change' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:18:59 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is the difference between a physical change and a chemical change' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the difference between a physical change and a chemical change' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:18:59 - Matched Response: A physical change affects the form of a substance without altering its chemical composition, while a chemical change results in the formation of new substances. (Score: 23.905162811279)
+2025-02-28 21:19:23 - User: How can I live a life of abundance?
+2025-02-28 21:19:23 - Normalized Input: how can i live a life of abundance
+2025-02-28 21:19:23 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how can i live a life of abundance' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:19:23 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how can i live a life of abundance' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how can i live a life of abundance' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:19:23 - Matched Response: A live auction is a fast-paced bidding event where multiple users compete in real time. (Score: 16.582754135132)
+2025-02-28 21:20:22 - User: hujambo
+2025-02-28 21:20:22 - Normalized Input: hujambo
+2025-02-28 21:20:22 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hujambo' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:20:22 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('hujambo' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('hujambo' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:20:22 - Matched Response: Hujambo! Ninaweza kukusaidia vipi leo? (Score: 7.2323822975159)
+2025-02-28 21:21:01 - User: jina lako
+2025-02-28 21:21:01 - Normalized Input: jina lako
+2025-02-28 21:21:01 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'jina lako' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:21:01 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('jina lako' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('jina lako' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:21:01 - Matched Response: Mimi ni msaada wa kielektroniki wa GBG Auction. Ninaitwa GBG Assistant. (Score: 14.464764595032)
+2025-02-28 21:22:38 - User: What is the importance of giving back in life?
+2025-02-28 21:22:38 - Normalized Input: what is the importance of giving back in life
+2025-02-28 21:22:38 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the importance of giving back in life' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:22:38 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is the importance of giving back in life' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the importance of giving back in life' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:22:38 - Matched Response: Giving back creates a sense of purpose, strengthens communities, and brings joy to both the giver and receiver. (Score: 20.17407989502)
+2025-02-28 21:23:00 - User: i want to register
+2025-02-28 21:23:00 - Normalized Input: i want to register
+2025-02-28 21:23:00 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i want to register' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:23:00 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i want to register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i want to register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:23:00 - Matched Response: No worries! Your account remains safe. Let me know how else I can assist you. (Score: 12.632525444031)
+2025-02-28 21:23:18 - User: can i register
+2025-02-28 21:23:18 - Normalized Input: can i register
+2025-02-28 21:23:18 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i register' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:23:18 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:23:18 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 12.584181785583)
+2025-02-28 21:23:38 - User: i want to register
+2025-02-28 21:23:38 - Normalized Input: i want to register
+2025-02-28 21:23:38 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i want to register' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:23:38 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i want to register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i want to register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:23:38 - Matched Response: No worries! Your account remains safe. Let me know how else I can assist you. (Score: 12.632525444031)
+2025-02-28 21:25:35 - User: How can I live a life of abundance?
+2025-02-28 21:25:35 - Normalized Input: how can i live a life of abundance
+2025-02-28 21:25:35 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how can i live a life of abundance' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:25:35 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how can i live a life of abundance' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how can i live a life of abundance' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:25:35 - Matched Response: Focus on gratitude, embrace opportunities, and cultivate a mindset of abundance rather than scarcity. (Score: 9.4793148040771)
+2025-02-28 21:28:23 - User: How do I find clarity in life?
+2025-02-28 21:28:23 - Normalized Input: how do i find clarity in life
+2025-02-28 21:28:23 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how do i find clarity in life' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:28:24 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how do i find clarity in life' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how do i find clarity in life' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:28:24 - Matched Response: Reflect on your values, set clear goals, and eliminate distractions to gain clarity about your path. (Score: 11.189058303833)
+2025-02-28 21:28:50 - User: What is the role of gratitude in overcoming challenges?
+2025-02-28 21:28:50 - Normalized Input: what is the role of gratitude in overcoming challenges
+2025-02-28 21:28:50 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the role of gratitude in overcoming challenges' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:28:50 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is the role of gratitude in overcoming challenges' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the role of gratitude in overcoming challenges' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:28:50 - Matched Response: Gratitude helps you focus on the positives, even during tough times, and builds resilience. (Score: 14.464764595032)
+2025-02-28 21:29:18 - User: How can I live a life true to myself?
+2025-02-28 21:29:18 - Normalized Input: how can i live a life true to myself
+2025-02-28 21:29:18 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how can i live a life true to myself' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:29:18 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how can i live a life true to myself' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how can i live a life true to myself' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:29:18 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 5.7819547653198)
+2025-02-28 21:31:32 - User: can i register
+2025-02-28 21:31:32 - Normalized Input: can i register
+2025-02-28 21:31:32 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i register' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:31:32 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:31:32 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 12.584181785583)
+2025-02-28 21:31:40 - User: i want to register
+2025-02-28 21:31:40 - Normalized Input: i want to register
+2025-02-28 21:31:40 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i want to register' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:31:40 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i want to register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i want to register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:31:40 - Matched Response: No worries! Your account remains safe. Let me know how else I can assist you. (Score: 12.632525444031)
+2025-02-28 21:32:16 - User: i want to register
+2025-02-28 21:32:16 - Normalized Input: i want to register
+2025-02-28 21:32:16 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i want to register' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:32:16 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i want to register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i want to register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:32:16 - Matched Response: No worries! Your account remains safe. Let me know how else I can assist you. (Score: 12.632525444031)
+2025-02-28 21:33:15 - User: i want to register
+2025-02-28 21:33:15 - Normalized Input: i want to register
+2025-02-28 21:33:15 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i want to register' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:33:15 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i want to register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i want to register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:33:15 - Matched Response: To register, click on the Sign Up button and fill in your details. It's quick and easy! (Score: 6.8022270202637)
+2025-02-28 21:33:54 - User: what are some of the items on the auctions
+2025-02-28 21:33:54 - Normalized Input: what are some of the items on the auctions
+2025-02-28 21:33:54 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are some of the items on the auctions' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:33:54 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are some of the items on the auctions' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are some of the items on the auctions' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:33:54 - Matched Response: Use the search bar at the top of the page to find specific items or browse categories. (Score: 17.39533996582)
+2025-02-28 21:34:26 - User: How do I find joy in the little things in life?
+2025-02-28 21:34:26 - Normalized Input: how do i find joy in the little things in life
+2025-02-28 21:34:26 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how do i find joy in the little things in life' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:34:26 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how do i find joy in the little things in life' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how do i find joy in the little things in life' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:34:26 - Matched Response: Practice mindfulness, slow down, and appreciate small moments like a beautiful sunset, a kind gesture, or a good meal. (Score: 11.189058303833)
+2025-02-28 21:34:56 - User: can i create an account
+2025-02-28 21:34:56 - Normalized Input: can i create an account
+2025-02-28 21:34:56 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i create an account' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:34:56 - Matched Response: Yes, you can create an account by clicking the Sign Up button and following the steps.
+2025-02-28 21:35:20 - User: what are the steps
+2025-02-28 21:35:20 - Normalized Input: what are the steps
+2025-02-28 21:35:20 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are the steps' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:35:20 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are the steps' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are the steps' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:35:20 - Matched Response: Bidding increments vary by auction. Check the item page for details on the minimum bid amount. (Score: 3.5208601951599)
+2025-02-28 21:40:29 - User: hello
+2025-02-28 21:40:29 - Normalized Input: hello
+2025-02-28 21:40:29 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:40:29 - Matched Response: Hi there! What can I do for you?
+2025-02-28 21:40:36 - User: hujambo
+2025-02-28 21:40:36 - Normalized Input: hujambo
+2025-02-28 21:40:36 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hujambo' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:40:36 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('hujambo' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('hujambo' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:40:36 - Matched Response: Hujambo! Ninaweza kukusaidia vipi leo? (Score: 7.2323822975159)
+2025-02-28 21:40:48 - User: i want to register
+2025-02-28 21:40:48 - Normalized Input: i want to register
+2025-02-28 21:40:48 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i want to register' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:40:48 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i want to register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i want to register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:40:48 - Matched Response: To register, click on the Sign Up button and fill in your details. It's quick and easy! (Score: 6.8022270202637)
+2025-02-28 21:41:04 - User: what are the steps
+2025-02-28 21:41:04 - Normalized Input: what are the steps
+2025-02-28 21:41:04 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are the steps' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:41:04 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are the steps' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are the steps' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:41:04 - Matched Response: Bidding increments vary by auction. Check the item page for details on the minimum bid amount. (Score: 3.5208601951599)
+2025-02-28 21:46:00 - User: ick up item
+2025-02-28 21:46:00 - Normalized Input: ick up item
+2025-02-28 21:46:00 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'ick up item' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:46:00 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('ick up item' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('ick up item' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:46:00 - Matched Response: Contact the seller directly to resolve any issues. If needed, reach out to our support team. (Score: 10.483598709106)
+2025-02-28 21:46:39 - User: pick up item
+2025-02-28 21:46:39 - Normalized Input: pick up item
+2025-02-28 21:46:39 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'pick up item' ORDER BY priority DESC LIMIT 1
+2025-02-28 21:46:39 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('pick up item' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('pick up item' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-02-28 21:46:39 - Matched Response: After winning an auction, you can collect your item from the specified location or arrange for shipping. (Score: 14.223230361938)
+2025-03-01 20:18:33 - User: hello
+2025-03-01 20:18:33 - Normalized Input: hello
+2025-03-01 20:18:34 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-01 20:18:34 - Matched Response: Hi there! What can I do for you?
+2025-03-01 20:23:38 - User: you too soo long
+2025-03-01 20:23:38 - Normalized Input: you too soo long
+2025-03-01 20:23:38 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'you too soo long' ORDER BY priority DESC LIMIT 1
+2025-03-01 20:24:14 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('you too soo long' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('you too soo long' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-01 20:24:14 - Matched Response: I can help you with bidding, auction rules, payment information, and more. Just ask! (Score: 7.9571213722229)
+2025-03-02 14:14:15 - User: hello
+2025-03-02 14:14:15 - Normalized Input: hello
+2025-03-02 14:14:16 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-02 14:14:16 - Matched Response: Hi there! What can I do for you?
+2025-03-02 14:14:25 - User: can i register
+2025-03-02 14:14:25 - Normalized Input: can i register
+2025-03-02 14:14:25 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i register' ORDER BY priority DESC LIMIT 1
+2025-03-02 14:14:26 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-02 14:14:26 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 12.163110733032)
+2025-03-02 14:14:41 - User: can i login
+2025-03-02 14:14:41 - Normalized Input: can i login
+2025-03-02 14:14:41 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i login' ORDER BY priority DESC LIMIT 1
+2025-03-02 14:14:41 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i login' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i login' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-02 14:14:41 - Matched Response: If you're having trouble logging in, try resetting your password or ensuring your credentials are correct. (Score: 12.428060531616)
+2025-03-02 18:46:08 - User: my code has a problem
+2025-03-02 18:46:08 - Normalized Input: my code has a problem
+2025-03-02 18:46:08 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'my code has a problem' ORDER BY priority DESC LIMIT 1
+2025-03-02 18:46:08 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('my code has a problem' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('my code has a problem' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-02 18:46:08 - Matched Response: I’m sorry to hear that. Could you describe the issue so I can help? (Score: 12.126155853271)
+2025-03-02 18:46:30 - User: the css code is not correct
+2025-03-02 18:46:30 - Normalized Input: the css code is not correct
+2025-03-02 18:46:30 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'the css code is not correct' ORDER BY priority DESC LIMIT 1
+2025-03-02 18:46:30 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('the css code is not correct' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('the css code is not correct' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-02 18:46:30 - Matched Response: If you are facing an issue, please describe it, and I will help you. (Score: 5.7038760185242)
+2025-03-02 19:16:42 - User: his
+2025-03-02 19:16:42 - Normalized Input: his
+2025-03-02 19:16:42 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'his' ORDER BY priority DESC LIMIT 1
+2025-03-02 19:16:42 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('his' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('his' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-02 19:16:46 - User: hi
+2025-03-02 19:16:46 - Normalized Input: hi
+2025-03-02 19:16:46 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hi' ORDER BY priority DESC LIMIT 1
+2025-03-02 19:16:46 - Matched Response: Hello! How can I assist you today?
+2025-03-02 19:16:57 - User: am glad you are back
+2025-03-02 19:16:57 - Normalized Input: am glad you are back
+2025-03-02 19:16:57 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'am glad you are back' ORDER BY priority DESC LIMIT 1
+2025-03-02 19:16:57 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('am glad you are back' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('am glad you are back' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-02 19:16:57 - Matched Response: Giving back creates a sense of purpose, strengthens communities, and brings joy to both the giver and receiver. (Score: 8.9421262741089)
+2025-03-02 19:17:17 - User: whatsapp
+2025-03-02 19:17:17 - Normalized Input: whatsapp
+2025-03-02 19:17:17 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'whatsapp' ORDER BY priority DESC LIMIT 1
+2025-03-02 19:17:17 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('whatsapp' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('whatsapp' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-02 19:17:51 - User: what's up
+2025-03-02 19:17:51 - Normalized Input: whats up
+2025-03-02 19:17:51 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'whats up' ORDER BY priority DESC LIMIT 1
+2025-03-02 19:17:51 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('whats up' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('whats up' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-03 01:32:07 - User: hello
+2025-03-03 01:32:07 - Normalized Input: hello
+2025-03-03 01:32:07 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-03 01:32:07 - Matched Response: Hi there! What can I do for you?
+2025-03-03 01:32:18 - User: how are you doing
+2025-03-03 01:32:18 - Normalized Input: how are you doing
+2025-03-03 01:32:18 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how are you doing' ORDER BY priority DESC LIMIT 1
+2025-03-03 01:32:18 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how are you doing' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how are you doing' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-03 01:32:18 - Matched Response: I'm just a chatbot, but I'm always here to help! (Score: 14.273384094238)
+2025-03-03 13:19:26 - User: hi
+2025-03-03 13:19:26 - Normalized Input: hi
+2025-03-03 13:19:26 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hi' ORDER BY priority DESC LIMIT 1
+2025-03-03 13:19:26 - Matched Response: Hello! How can I assist you today?
+2025-03-03 13:20:16 - User: i want to bid
+2025-03-03 13:20:16 - Normalized Input: i want to bid
+2025-03-03 13:20:16 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i want to bid' ORDER BY priority DESC LIMIT 1
+2025-03-03 13:20:16 - Matched Response: 
+2025-03-03 13:21:21 - User: can i register
+2025-03-03 13:21:21 - Normalized Input: can i register
+2025-03-03 13:21:21 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i register' ORDER BY priority DESC LIMIT 1
+2025-03-03 13:21:21 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-03 13:21:21 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 12.163110733032)
+2025-03-03 13:21:33 - User: can i bid
+2025-03-03 13:21:33 - Normalized Input: can i bid
+2025-03-03 13:21:33 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-03 13:21:33 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-04 15:42:58 - User: hello
+2025-03-04 15:42:59 - Normalized Input: hello
+2025-03-04 15:42:59 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-04 15:42:59 - Matched Response: Hi there! What can I do for you?
+2025-03-04 15:43:04 - User: can i bid
+2025-03-04 15:43:04 - Normalized Input: can i bid
+2025-03-04 15:43:04 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 15:43:04 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-04 15:43:11 - User: can i register
+2025-03-04 15:43:11 - Normalized Input: can i register
+2025-03-04 15:43:11 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i register' ORDER BY priority DESC LIMIT 1
+2025-03-04 15:43:12 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 15:43:12 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 12.163110733032)
+2025-03-04 15:43:24 - User: how to sign up
+2025-03-04 15:43:24 - Normalized Input: how to sign up
+2025-03-04 15:43:24 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how to sign up' ORDER BY priority DESC LIMIT 1
+2025-03-04 15:43:24 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how to sign up' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how to sign up' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 15:43:24 - Matched Response: Just click Sign Up, enter your information, and you'll be ready to bid on auctions. (Score: 5.7075290679932)
+2025-03-04 15:44:03 - User: how to bid
+2025-03-04 15:44:03 - Normalized Input: how to bid
+2025-03-04 15:44:03 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how to bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 15:44:03 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how to bid' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how to bid' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 15:44:03 - Matched Response: Once placed, bids cannot be canceled. Make sure to bid carefully! (Score: 8.9395341873169)
+2025-03-04 15:44:19 - User: what are the rules
+2025-03-04 15:44:19 - Normalized Input: what are the rules
+2025-03-04 15:44:19 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are the rules' ORDER BY priority DESC LIMIT 1
+2025-03-04 15:44:19 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are the rules' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are the rules' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 15:44:19 - Matched Response: GBG Auction has a set of rules to ensure fair and secure transactions. Here are the key guidelines:
+1. **Bidding Rules**: Bids are binding, and the highest bid wins.
+2. **Seller Rules**: Sellers must provide accurate descriptions and images of items.
+3. **Buyer Rules**: Buyers must pay within the specified time after winning.
+4. **Prohibited Items**: Certain items (e.g., illegal goods) are not allowed.
+5. **Fees**: Sellers pay a commission fee, and buyers may pay a buyer's premium.
+6. **Disputes**: Contact support for help with disputes.
+For full details, visit our [Terms and Conditions](#) page or contact support. (Score: 9.2041158676147)
+2025-03-04 15:45:30 - User: can i talk to the support team
+2025-03-04 15:45:30 - Normalized Input: can i talk to the support team
+2025-03-04 15:45:30 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i talk to the support team' ORDER BY priority DESC LIMIT 1
+2025-03-04 15:45:30 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i talk to the support team' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i talk to the support team' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 15:45:30 - Matched Response: You can contact support through the 'Help' section or email us at support@gbgauction.com. (Score: 10.601303100586)
+2025-03-04 15:50:24 - User: what are the rules of the auction
+2025-03-04 15:50:24 - Normalized Input: what are the rules of the auction
+2025-03-04 15:50:24 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are the rules of the auction' ORDER BY priority DESC LIMIT 1
+2025-03-04 15:50:25 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are the rules of the auction' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are the rules of the auction' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 15:50:25 - Matched Response: GBG Auction has a set of rules to ensure fair and secure transactions. Here are the key guidelines:
+1. **Bidding Rules**: Bids are binding, and the highest bid wins.
+2. **Seller Rules**: Sellers must provide accurate descriptions and images of items.
+3. **Buyer Rules**: Buyers must pay within the specified time after winning.
+4. **Prohibited Items**: Certain items (e.g., illegal goods) are not allowed.
+5. **Fees**: Sellers pay a commission fee, and buyers may pay a buyer's premium.
+6. **Disputes**: Contact support for help with disputes.
+For full details, visit our [Terms and Conditions](#) page or contact support. (Score: 11.861241340637)
+2025-03-04 16:04:54 - User: hello
+2025-03-04 16:04:54 - Normalized Input: hello
+2025-03-04 16:04:54 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:04:54 - Matched Response: Hi there! What can I do for you?
+2025-03-04 16:05:00 - User: can i bid
+2025-03-04 16:05:00 - Normalized Input: can i bid
+2025-03-04 16:05:00 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:05:00 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-04 16:05:26 - User: i already have an account
+2025-03-04 16:05:26 - Normalized Input: i already have an account
+2025-03-04 16:05:26 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i already have an account' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:05:26 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i already have an account' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i already have an account' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:05:26 - Matched Response: I’m sorry to hear that. Could you describe the issue so I can help? (Score: 12.925798416138)
+2025-03-04 16:05:48 - User: what are the rules for auction
+2025-03-04 16:05:48 - Normalized Input: what are the rules for auction
+2025-03-04 16:05:48 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are the rules for auction' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:05:48 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are the rules for auction' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are the rules for auction' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:05:48 - Matched Response: GBG Auction has a set of rules to ensure fair and secure transactions. Here are the key guidelines:
+1. **Bidding Rules**: Bids are binding, and the highest bid wins.
+2. **Seller Rules**: Sellers must provide accurate descriptions and images of items.
+3. **Buyer Rules**: Buyers must pay within the specified time after winning.
+4. **Prohibited Items**: Certain items (e.g., illegal goods) are not allowed.
+5. **Fees**: Sellers pay a commission fee, and buyers may pay a buyer's premium.
+6. **Disputes**: Contact support for help with disputes.
+For full details, visit our [Terms and Conditions](#) page or contact support. (Score: 11.861241340637)
+2025-03-04 16:09:26 - User: hi
+2025-03-04 16:09:26 - Normalized Input: hi
+2025-03-04 16:09:26 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hi' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:09:26 - Matched Response: Hello! How can I assist you today?
+2025-03-04 16:09:31 - User: can i bid
+2025-03-04 16:09:31 - Normalized Input: can i bid
+2025-03-04 16:09:31 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:09:31 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-04 16:09:39 - User: how can i register
+2025-03-04 16:09:39 - Normalized Input: how can i register
+2025-03-04 16:09:39 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how can i register' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:09:39 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how can i register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how can i register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:09:39 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 12.163110733032)
+2025-03-04 16:10:04 - User: what are the rules for the auction
+2025-03-04 16:10:04 - Normalized Input: what are the rules for the auction
+2025-03-04 16:10:04 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are the rules for the auction' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:10:04 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are the rules for the auction' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are the rules for the auction' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:10:04 - Matched Response: GBG Auction has a set of rules to ensure fair and secure transactions. Here are the key guidelines:
+1. **Bidding Rules**: Bids are binding, and the highest bid wins.
+2. **Seller Rules**: Sellers must provide accurate descriptions and images of items.
+3. **Buyer Rules**: Buyers must pay within the specified time after winning.
+4. **Prohibited Items**: Certain items (e.g., illegal goods) are not allowed.
+5. **Fees**: Sellers pay a commission fee, and buyers may pay a buyer's premium.
+6. **Disputes**: Contact support for help with disputes.
+For full details, visit our [Terms and Conditions](#) page or contact support. (Score: 11.861241340637)
+2025-03-04 16:10:55 - User: hi
+2025-03-04 16:10:55 - Normalized Input: hi
+2025-03-04 16:10:55 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hi' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:10:55 - Matched Response: Hello! How can I assist you today?
+2025-03-04 16:11:12 - User: want to register
+2025-03-04 16:11:12 - Normalized Input: want to register
+2025-03-04 16:11:12 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'want to register' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:11:12 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('want to register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('want to register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:11:12 - Matched Response: To sell an item, log in and navigate to your dashboard, then click on 'Add Auction Item' and fill in the details. (Score: 8.9421262741089)
+2025-03-04 16:11:31 - User: can i register
+2025-03-04 16:11:31 - Normalized Input: can i register
+2025-03-04 16:11:31 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i register' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:11:31 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:11:31 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 12.163110733032)
+2025-03-04 16:11:42 - User: can i bide
+2025-03-04 16:11:42 - Normalized Input: can i bide
+2025-03-04 16:11:42 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bide' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:11:42 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i bide' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i bide' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:11:42 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 5.7819547653198)
+2025-03-04 16:12:00 - User: habari
+2025-03-04 16:12:00 - Normalized Input: habari
+2025-03-04 16:12:00 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'habari' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:12:00 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('habari' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('habari' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:12:00 - Matched Response: Hujambo! Ninaweza kukusaidia vipi leo? (Score: 7.2323822975159)
+2025-03-04 16:15:28 - User: hi
+2025-03-04 16:15:28 - Normalized Input: hi
+2025-03-04 16:15:28 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hi' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:15:28 - Matched Response: Hello! How can I assist you today?
+2025-03-04 16:15:32 - User: can i bid
+2025-03-04 16:15:32 - Normalized Input: can i bid
+2025-03-04 16:15:32 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:15:32 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-04 16:15:41 - User: can i resgister
+2025-03-04 16:15:41 - Normalized Input: can i resgister
+2025-03-04 16:15:41 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i resgister' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:15:42 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i resgister' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i resgister' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:15:42 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 5.7819547653198)
+2025-03-04 16:15:49 - User: what are the steps
+2025-03-04 16:15:57 - User: can i log in
+2025-03-04 16:15:57 - Normalized Input: can i log in
+2025-03-04 16:15:57 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i log in' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:15:57 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i log in' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i log in' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:15:57 - Matched Response: Go to the login page and enter your credentials. If you forgot your password, you can reset it. (Score: 11.714866638184)
+2025-03-04 16:17:32 - User: hi
+2025-03-04 16:17:32 - Normalized Input: hi
+2025-03-04 16:17:32 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hi' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:17:32 - Matched Response: Hello! How can I assist you today?
+2025-03-04 16:17:45 - User: hello
+2025-03-04 16:17:45 - Normalized Input: hello
+2025-03-04 16:17:45 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:17:45 - Matched Response: Hi there! What can I do for you?
+2025-03-04 16:17:53 - User: habari
+2025-03-04 16:17:53 - Normalized Input: habari
+2025-03-04 16:17:53 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'habari' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:17:53 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('habari' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('habari' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:17:53 - Matched Response: Hujambo! Ninaweza kukusaidia vipi leo? (Score: 7.2323822975159)
+2025-03-04 16:18:02 - User: vip
+2025-03-04 16:18:02 - Normalized Input: vip
+2025-03-04 16:18:02 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'vip' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:18:02 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('vip' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('vip' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:18:12 - User: vipi
+2025-03-04 16:18:12 - Normalized Input: vipi
+2025-03-04 16:18:12 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'vipi' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:18:12 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('vipi' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('vipi' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:18:12 - Matched Response: Poa! Je, ninaweza kukusaidia vipi leo? (Score: 14.464764595032)
+2025-03-04 16:18:20 - User: can i bid
+2025-03-04 16:18:20 - Normalized Input: can i bid
+2025-03-04 16:18:20 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:18:20 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-04 16:20:16 - User: hello
+2025-03-04 16:20:16 - Normalized Input: hello
+2025-03-04 16:20:16 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:20:16 - Matched Response: Hi there! What can I do for you?
+2025-03-04 16:20:21 - User: can i bid
+2025-03-04 16:20:21 - Normalized Input: can i bid
+2025-03-04 16:20:21 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:20:21 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-04 16:20:31 - User: how
+2025-03-04 16:20:31 - Normalized Input: how
+2025-03-04 16:20:31 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:20:31 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:20:49 - User: can i register
+2025-03-04 16:20:49 - Normalized Input: can i register
+2025-03-04 16:20:49 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i register' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:20:49 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:20:49 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 12.163110733032)
+2025-03-04 16:24:01 - User: hello
+2025-03-04 16:24:01 - Normalized Input: hello
+2025-03-04 16:24:01 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:24:01 - Matched Response: Hi there! What can I do for you?
+2025-03-04 16:24:07 - User: can i bid
+2025-03-04 16:24:07 - Normalized Input: can i bid
+2025-03-04 16:24:07 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:24:07 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-04 16:24:17 - User: what are the rules
+2025-03-04 16:24:17 - Normalized Input: what are the rules
+2025-03-04 16:24:17 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are the rules' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:24:17 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are the rules' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are the rules' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:24:17 - Matched Response: GBG Auction has a set of rules to ensure fair and secure transactions. Here are the key guidelines:
+1. **Bidding Rules**: Bids are binding, and the highest bid wins.
+2. **Seller Rules**: Sellers must provide accurate descriptions and images of items.
+3. **Buyer Rules**: Buyers must pay within the specified time after winning.
+4. **Prohibited Items**: Certain items (e.g., illegal goods) are not allowed.
+5. **Fees**: Sellers pay a commission fee, and buyers may pay a buyer's premium.
+6. **Disputes**: Contact support for help with disputes.
+For full details, visit our [Terms and Conditions](#) page or contact support. (Score: 9.2041158676147)
+2025-03-04 16:24:29 - User: what is an atom
+2025-03-04 16:24:29 - Normalized Input: what is an atom
+2025-03-04 16:24:29 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is an atom' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:24:29 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is an atom' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is an atom' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:24:29 - Matched Response: The Bohr model is a representation of the atom where electrons orbit the nucleus in specific energy levels or shells. (Score: 8.9421262741089)
+2025-03-04 16:24:54 - User: what is borh model
+2025-03-04 16:24:54 - Normalized Input: what is borh model
+2025-03-04 16:24:54 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is borh model' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:24:54 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is borh model' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is borh model' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:24:54 - Matched Response: Use historical data, set clear goals, and test different bidding strategies to model your auction approach. (Score: 14.464764595032)
+2025-03-04 16:25:13 - User: can i talk to support
+2025-03-04 16:25:13 - Normalized Input: can i talk to support
+2025-03-04 16:25:13 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i talk to support' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:25:13 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i talk to support' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i talk to support' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:25:13 - Matched Response: You can contact support through the 'Help' section or email us at support@gbgauction.com. (Score: 8.5612936019897)
+2025-03-04 16:25:24 - User: help
+2025-03-04 16:25:24 - Normalized Input: help
+2025-03-04 16:25:24 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'help' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:25:24 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('help' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('help' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:25:24 - Matched Response: Sure, I can help! What do you need assistance with? (Score: 6.0209102630615)
+2025-03-04 16:25:37 - User: the rules of auction
+2025-03-04 16:25:37 - Normalized Input: the rules of auction
+2025-03-04 16:25:37 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'the rules of auction' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:25:37 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('the rules of auction' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('the rules of auction' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:25:37 - Matched Response: GBG Auction has a set of rules to ensure fair and secure transactions. Here are the key guidelines:
+1. **Bidding Rules**: Bids are binding, and the highest bid wins.
+2. **Seller Rules**: Sellers must provide accurate descriptions and images of items.
+3. **Buyer Rules**: Buyers must pay within the specified time after winning.
+4. **Prohibited Items**: Certain items (e.g., illegal goods) are not allowed.
+5. **Fees**: Sellers pay a commission fee, and buyers may pay a buyer's premium.
+6. **Disputes**: Contact support for help with disputes.
+For full details, visit our [Terms and Conditions](#) page or contact support. (Score: 11.861241340637)
+2025-03-04 16:25:55 - User: why is it that my scroll bar is no working
+2025-03-04 16:25:55 - Normalized Input: why is it that my scroll bar is no working
+2025-03-04 16:25:55 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'why is it that my scroll bar is no working' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:25:55 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('why is it that my scroll bar is no working' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('why is it that my scroll bar is no working' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:25:55 - Matched Response: GBG Auction offers a secure, user-friendly platform with live and timed auctions, competitive fees, and excellent buyer and seller support! (Score: 22.815504074097)
+2025-03-04 16:29:25 - User: hi
+2025-03-04 16:29:25 - Normalized Input: hi
+2025-03-04 16:29:25 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hi' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:29:25 - Matched Response: Hello! How can I assist you today?
+2025-03-04 16:29:52 - User: what are the rules of auction
+2025-03-04 16:29:52 - Normalized Input: what are the rules of auction
+2025-03-04 16:29:52 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are the rules of auction' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:29:52 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are the rules of auction' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are the rules of auction' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:29:52 - Matched Response: GBG Auction has a set of rules to ensure fair and secure transactions. Here are the key guidelines:
+1. **Bidding Rules**: Bids are binding, and the highest bid wins.
+2. **Seller Rules**: Sellers must provide accurate descriptions and images of items.
+3. **Buyer Rules**: Buyers must pay within the specified time after winning.
+4. **Prohibited Items**: Certain items (e.g., illegal goods) are not allowed.
+5. **Fees**: Sellers pay a commission fee, and buyers may pay a buyer's premium.
+6. **Disputes**: Contact support for help with disputes.
+For full details, visit our [Terms and Conditions](#) page or contact support. (Score: 11.861241340637)
+2025-03-04 16:30:43 - User: hello
+2025-03-04 16:30:43 - Normalized Input: hello
+2025-03-04 16:30:43 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:30:43 - Matched Response: Hi there! What can I do for you?
+2025-03-04 16:30:56 - User: what are the rules for the auction
+2025-03-04 16:30:56 - Normalized Input: what are the rules for the auction
+2025-03-04 16:30:56 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are the rules for the auction' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:30:56 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are the rules for the auction' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are the rules for the auction' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:30:56 - Matched Response: GBG Auction has a set of rules to ensure fair and secure transactions. Here are the key guidelines:
+1. **Bidding Rules**: Bids are binding, and the highest bid wins.
+2. **Seller Rules**: Sellers must provide accurate descriptions and images of items.
+3. **Buyer Rules**: Buyers must pay within the specified time after winning.
+4. **Prohibited Items**: Certain items (e.g., illegal goods) are not allowed.
+5. **Fees**: Sellers pay a commission fee, and buyers may pay a buyer's premium.
+6. **Disputes**: Contact support for help with disputes.
+For full details, visit our [Terms and Conditions](#) page or contact support. (Score: 11.861241340637)
+2025-03-04 16:31:35 - User: hi
+2025-03-04 16:31:35 - Normalized Input: hi
+2025-03-04 16:31:35 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hi' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:31:35 - Matched Response: Hello! How can I assist you today?
+2025-03-04 16:31:40 - User: can i bid
+2025-03-04 16:31:40 - Normalized Input: can i bid
+2025-03-04 16:31:40 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:31:40 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-04 16:31:53 - User: what is auction
+2025-03-04 16:31:53 - Normalized Input: what is auction
+2025-03-04 16:31:53 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is auction' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:31:53 - Matched Response: An auction is a process where buyers place competitive bids on items. The highest bidder wins.
+2025-03-04 16:32:04 - User: what are the rules
+2025-03-04 16:32:04 - Normalized Input: what are the rules
+2025-03-04 16:32:04 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are the rules' ORDER BY priority DESC LIMIT 1
+2025-03-04 16:32:04 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are the rules' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are the rules' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 16:32:04 - Matched Response: GBG Auction has a set of rules to ensure fair and secure transactions. Here are the key guidelines:
+1. **Bidding Rules**: Bids are binding, and the highest bid wins.
+2. **Seller Rules**: Sellers must provide accurate descriptions and images of items.
+3. **Buyer Rules**: Buyers must pay within the specified time after winning.
+4. **Prohibited Items**: Certain items (e.g., illegal goods) are not allowed.
+5. **Fees**: Sellers pay a commission fee, and buyers may pay a buyer's premium.
+6. **Disputes**: Contact support for help with disputes.
+For full details, visit our [Terms and Conditions](#) page or contact support. (Score: 9.2041158676147)
+2025-03-04 17:18:14 - User: hi
+2025-03-04 17:18:15 - Normalized Input: hi
+2025-03-04 17:18:15 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hi' ORDER BY priority DESC LIMIT 1
+2025-03-04 17:18:15 - Matched Response: Hello! How can I assist you today?
+2025-03-04 17:18:19 - User: can i bid
+2025-03-04 17:18:19 - Normalized Input: can i bid
+2025-03-04 17:18:19 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 17:18:19 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-04 17:18:29 - User: what are the rules
+2025-03-04 17:18:29 - Normalized Input: what are the rules
+2025-03-04 17:18:29 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are the rules' ORDER BY priority DESC LIMIT 1
+2025-03-04 17:18:29 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are the rules' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are the rules' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 17:18:29 - Matched Response: GBG Auction has a set of rules to ensure fair and secure transactions. Here are the key guidelines:
+1. **Bidding Rules**: Bids are binding, and the highest bid wins.
+2. **Seller Rules**: Sellers must provide accurate descriptions and images of items.
+3. **Buyer Rules**: Buyers must pay within the specified time after winning.
+4. **Prohibited Items**: Certain items (e.g., illegal goods) are not allowed.
+5. **Fees**: Sellers pay a commission fee, and buyers may pay a buyer's premium.
+6. **Disputes**: Contact support for help with disputes.
+For full details, visit our [Terms and Conditions](#) page or contact support. (Score: 9.2041158676147)
+2025-03-04 17:18:57 - User: now i like what am seeing
+2025-03-04 17:18:57 - Normalized Input: now i like what am seeing
+2025-03-04 17:18:57 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'now i like what am seeing' ORDER BY priority DESC LIMIT 1
+2025-03-04 17:18:57 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('now i like what am seeing' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('now i like what am seeing' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 17:18:57 - Matched Response: A bid allows you to compete for an item, while a buy-it-now price lets you purchase the item immediately at a set price. (Score: 17.884252548218)
+2025-03-04 17:19:32 - User: what are some of the item on the auction
+2025-03-04 17:19:32 - Normalized Input: what are some of the item on the auction
+2025-03-04 17:19:32 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are some of the item on the auction' ORDER BY priority DESC LIMIT 1
+2025-03-04 17:19:32 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are some of the item on the auction' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are some of the item on the auction' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 17:19:32 - Matched Response: Many sellers have achieved success by listing high-quality items, setting competitive prices, and promoting their auctions. Check our blog for case studies! (Score: 10.713542938232)
+2025-03-04 17:20:17 - User: i like that
+2025-03-04 17:20:17 - Normalized Input: i like that
+2025-03-04 17:20:17 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i like that' ORDER BY priority DESC LIMIT 1
+2025-03-04 17:20:17 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i like that' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i like that' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 17:20:17 - Matched Response: Returns depend on the seller's return policy. Check the item description or contact the seller directly. (Score: 8.9421262741089)
+2025-03-04 17:28:07 - User: hi
+2025-03-04 17:28:07 - Normalized Input: hi
+2025-03-04 17:28:07 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hi' ORDER BY priority DESC LIMIT 1
+2025-03-04 17:28:07 - Matched Response: Hello! How can I assist you today?
+2025-03-04 17:28:13 - User: how are you
+2025-03-04 17:28:13 - Normalized Input: how are you
+2025-03-04 17:28:13 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how are you' ORDER BY priority DESC LIMIT 1
+2025-03-04 17:28:13 - Matched Response: I am just a chatbot, but I am here to help!
+2025-03-04 17:28:20 - User: yes help me
+2025-03-04 17:28:20 - Normalized Input: yes help me
+2025-03-04 17:28:20 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'yes help me' ORDER BY priority DESC LIMIT 1
+2025-03-04 17:28:20 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('yes help me' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('yes help me' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 17:28:20 - Matched Response: Sure, I can help! What do you need assistance with? (Score: 6.0209102630615)
+2025-03-04 17:28:47 - User: i have a problem logining in
+2025-03-04 17:28:47 - Normalized Input: i have a problem logining in
+2025-03-04 17:28:47 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i have a problem logining in' ORDER BY priority DESC LIMIT 1
+2025-03-04 17:28:47 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i have a problem logining in' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i have a problem logining in' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 17:28:47 - Matched Response: I’m sorry to hear that. Could you describe the issue so I can help? (Score: 12.81667137146)
+2025-03-04 17:29:04 - User: i can't log in
+2025-03-04 17:29:04 - Normalized Input: i cant log in
+2025-03-04 17:29:04 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i cant log in' ORDER BY priority DESC LIMIT 1
+2025-03-04 17:29:04 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i cant log in' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i cant log in' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 17:29:04 - Matched Response: Go to the login page and enter your credentials. If you forgot your password, you can reset it. (Score: 9.7875480651855)
+2025-03-04 17:29:25 - User: i think i forgot my password
+2025-03-04 17:29:25 - Normalized Input: i think i forgot my password
+2025-03-04 17:29:25 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i think i forgot my password' ORDER BY priority DESC LIMIT 1
+2025-03-04 17:29:25 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i think i forgot my password' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i think i forgot my password' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 17:29:25 - Matched Response: Click 'Forgot Password' on the login page and follow the instructions to reset it. (Score: 18.753328323364)
+2025-03-04 18:06:45 - User: hi
+2025-03-04 18:06:45 - Normalized Input: hi
+2025-03-04 18:06:45 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hi' ORDER BY priority DESC LIMIT 1
+2025-03-04 18:06:45 - Matched Response: Hello! How can I assist you today?
+2025-03-04 18:06:52 - User: good morning
+2025-03-04 18:06:52 - Normalized Input: good morning
+2025-03-04 18:06:52 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'good morning' ORDER BY priority DESC LIMIT 1
+2025-03-04 18:06:52 - Matched Response: Good morning! Hope you have a great day. How can I assist you?
+2025-03-04 18:06:58 - User: what is the time
+2025-03-04 18:06:58 - Normalized Input: what is the time
+2025-03-04 18:06:58 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the time' ORDER BY priority DESC LIMIT 1
+2025-03-04 18:06:58 - Matched Response: It's currently {time}.
+2025-03-04 18:07:08 - User: what is the date
+2025-03-04 18:07:08 - Normalized Input: what is the date
+2025-03-04 18:07:08 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the date' ORDER BY priority DESC LIMIT 1
+2025-03-04 18:07:08 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is the date' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the date' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 18:07:08 - Matched Response: Ask me directly in chat, and I'll tell you today's date! (Score: 24.468870162964)
+2025-03-04 18:08:29 - User: what is the date
+2025-03-04 18:08:29 - Normalized Input: what is the date
+2025-03-04 18:08:29 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the date' ORDER BY priority DESC LIMIT 1
+2025-03-04 18:08:29 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is the date' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the date' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 18:08:29 - Matched Response: Ask me directly in chat, and I'll tell you today's date! (Score: 24.468870162964)
+2025-03-04 18:08:35 - User: date
+2025-03-04 18:08:35 - Normalized Input: date
+2025-03-04 18:08:35 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'date' ORDER BY priority DESC LIMIT 1
+2025-03-04 18:08:35 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('date' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('date' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 18:08:35 - Matched Response: Ask me directly in chat, and I'll tell you today's date! (Score: 24.468870162964)
+2025-03-04 18:08:42 - User: what is auction
+2025-03-04 18:08:42 - Normalized Input: what is auction
+2025-03-04 18:08:42 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is auction' ORDER BY priority DESC LIMIT 1
+2025-03-04 18:08:42 - Matched Response: An auction is a process where buyers place competitive bids on items. The highest bidder wins.
+2025-03-04 18:08:58 - User: how is the winner found
+2025-03-04 18:08:58 - Normalized Input: how is the winner found
+2025-03-04 18:08:58 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how is the winner found' ORDER BY priority DESC LIMIT 1
+2025-03-04 18:08:58 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how is the winner found' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how is the winner found' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 18:09:15 - User: how to win a bid
+2025-03-04 18:09:15 - Normalized Input: how to win a bid
+2025-03-04 18:09:15 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how to win a bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 18:09:15 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how to win a bid' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how to win a bid' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 18:09:15 - Matched Response: If you win a bid, you'll receive a notification with payment and pickup instructions. (Score: 12.289030075073)
+2025-03-04 21:20:47 - User: hi
+2025-03-04 21:20:47 - Normalized Input: hi
+2025-03-04 21:20:47 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hi' ORDER BY priority DESC LIMIT 1
+2025-03-04 21:20:47 - Matched Response: Hello! How can I assist you today?
+2025-03-04 21:20:52 - User: can i bid
+2025-03-04 21:20:52 - Normalized Input: can i bid
+2025-03-04 21:20:52 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 21:20:52 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-04 21:21:07 - User: can i register
+2025-03-04 21:21:07 - Normalized Input: can i register
+2025-03-04 21:21:07 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i register' ORDER BY priority DESC LIMIT 1
+2025-03-04 21:21:07 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 21:21:07 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 12.163110733032)
+2025-03-04 21:21:16 - User: how to bid
+2025-03-04 21:21:16 - Normalized Input: how to bid
+2025-03-04 21:21:16 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how to bid' ORDER BY priority DESC LIMIT 1
+2025-03-04 21:21:16 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how to bid' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how to bid' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 21:21:16 - Matched Response: Once placed, bids cannot be canceled. Make sure to bid carefully! (Score: 8.9395341873169)
+2025-03-04 21:21:39 - User: what is if i forget my password
+2025-03-04 21:21:39 - Normalized Input: what is if i forget my password
+2025-03-04 21:21:39 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is if i forget my password' ORDER BY priority DESC LIMIT 1
+2025-03-04 21:21:39 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is if i forget my password' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is if i forget my password' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-04 21:21:39 - Matched Response: Click 'Forgot Password' on the login page and follow the instructions to reset it. (Score: 22.286630630493)
+2025-03-05 15:01:38 - User: hello
+2025-03-05 15:01:38 - Normalized Input: hello
+2025-03-05 15:01:38 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-05 15:01:38 - Matched Response: Hi there! What can I do for you?
+2025-03-05 15:01:55 - User: am bored
+2025-03-05 15:01:55 - Normalized Input: am bored
+2025-03-05 15:01:55 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'am bored' ORDER BY priority DESC LIMIT 1
+2025-03-05 15:01:55 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('am bored' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('am bored' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 15:02:38 - User: why can't you help
+2025-03-05 15:02:38 - Normalized Input: why cant you help
+2025-03-05 15:02:38 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'why cant you help' ORDER BY priority DESC LIMIT 1
+2025-03-05 15:02:38 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('why cant you help' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('why cant you help' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 15:02:38 - Matched Response: GBG Auction offers a secure, user-friendly platform with live and timed auctions, competitive fees, and excellent buyer and seller support! (Score: 22.815504074097)
+2025-03-05 15:03:05 - User: can i bid
+2025-03-05 15:03:05 - Normalized Input: can i bid
+2025-03-05 15:03:05 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-05 15:03:05 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-05 15:03:23 - User: what is an atom
+2025-03-05 15:03:23 - Normalized Input: what is an atom
+2025-03-05 15:03:23 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is an atom' ORDER BY priority DESC LIMIT 1
+2025-03-05 15:03:23 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is an atom' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is an atom' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 15:03:23 - Matched Response: The Bohr model is a representation of the atom where electrons orbit the nucleus in specific energy levels or shells. (Score: 8.9421262741089)
+2025-03-05 15:03:38 - User: what is bohr model
+2025-03-05 15:03:38 - Normalized Input: what is bohr model
+2025-03-05 15:03:38 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is bohr model' ORDER BY priority DESC LIMIT 1
+2025-03-05 15:03:38 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is bohr model' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is bohr model' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 15:03:38 - Matched Response: The Bohr model is a representation of the atom where electrons orbit the nucleus in specific energy levels or shells. (Score: 16.174509048462)
+2025-03-05 15:04:36 - User: what is the hydrogen
+2025-03-05 15:04:36 - Normalized Input: what is the hydrogen
+2025-03-05 15:04:36 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the hydrogen' ORDER BY priority DESC LIMIT 1
+2025-03-05 15:04:36 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is the hydrogen' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the hydrogen' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 15:04:36 - Matched Response: The atomic number of Hydrogen is 1. (Score: 7.2323822975159)
+2025-03-05 18:10:14 - User: can i bid
+2025-03-05 18:10:14 - Normalized Input: can i bid
+2025-03-05 18:10:14 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-05 18:10:14 - Matched Response: Yes, you can bid after registering on our platform. Would you like to register?
+2025-03-05 18:10:24 - User: auction
+2025-03-05 18:10:24 - Normalized Input: auction
+2025-03-05 18:10:24 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'auction' ORDER BY priority DESC LIMIT 1
+2025-03-05 18:10:24 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('auction' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('auction' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 18:10:24 - Matched Response: A timed auction allows users to bid over a set period. The highest bid at the end wins. (Score: 3.6937386989594)
+2025-03-05 18:13:24 - User: How can I live a life of abundance?
+2025-03-05 18:13:24 - Normalized Input: how can i live a life of abundance
+2025-03-05 18:13:24 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how can i live a life of abundance' ORDER BY priority DESC LIMIT 1
+2025-03-05 18:13:25 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how can i live a life of abundance' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how can i live a life of abundance' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 18:13:25 - Matched Response: Focus on gratitude, embrace opportunities, and cultivate a mindset of abundance rather than scarcity. (Score: 11.231953620911)
+2025-03-05 18:13:46 - User: What is the importance of giving back in life?
+2025-03-05 18:13:46 - Normalized Input: what is the importance of giving back in life
+2025-03-05 18:13:46 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the importance of giving back in life' ORDER BY priority DESC LIMIT 1
+2025-03-05 18:13:46 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is the importance of giving back in life' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the importance of giving back in life' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 18:13:46 - Matched Response: Giving back creates a sense of purpose, strengthens communities, and brings joy to both the giver and receiver. (Score: 20.17407989502)
+2025-03-05 18:14:13 - User: How do I find clarity in life?
+2025-03-05 18:14:13 - Normalized Input: how do i find clarity in life
+2025-03-05 18:14:13 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how do i find clarity in life' ORDER BY priority DESC LIMIT 1
+2025-03-05 18:14:13 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how do i find clarity in life' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how do i find clarity in life' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 18:14:13 - Matched Response: Reflect on your values, set clear goals, and eliminate distractions to gain clarity about your path. (Score: 11.231953620911)
+2025-03-05 18:15:21 - User: What is the role of gratitude in overcoming challenges?
+2025-03-05 18:15:21 - Normalized Input: what is the role of gratitude in overcoming challenges
+2025-03-05 18:15:21 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is the role of gratitude in overcoming challenges' ORDER BY priority DESC LIMIT 1
+2025-03-05 18:15:21 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what is the role of gratitude in overcoming challenges' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what is the role of gratitude in overcoming challenges' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 18:15:21 - Matched Response: Gratitude helps you focus on the positives, even during tough times, and builds resilience. (Score: 14.464764595032)
+2025-03-05 18:16:01 - User: How can I live a life true to myself?
+2025-03-05 18:16:01 - Normalized Input: how can i live a life true to myself
+2025-03-05 18:16:01 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how can i live a life true to myself' ORDER BY priority DESC LIMIT 1
+2025-03-05 18:16:01 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how can i live a life true to myself' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how can i live a life true to myself' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 18:16:01 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 5.7819547653198)
+2025-03-05 18:19:55 - User: i already have an account
+2025-03-05 18:19:55 - Normalized Input: i already have an account
+2025-03-05 18:19:55 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i already have an account' ORDER BY priority DESC LIMIT 1
+2025-03-05 18:19:55 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i already have an account' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i already have an account' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 18:19:55 - Matched Response: I’m sorry to hear that. Could you describe the issue so I can help? (Score: 12.932771682739)
+2025-03-05 18:20:35 - User: hello
+2025-03-05 18:20:35 - Normalized Input: hello
+2025-03-05 18:20:35 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-05 18:20:35 - Matched Response: Hi there! What can I do for you?
+2025-03-05 18:20:44 - User: can i register
+2025-03-05 18:20:44 - Normalized Input: can i register
+2025-03-05 18:20:44 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'can i register' ORDER BY priority DESC LIMIT 1
+2025-03-05 18:20:44 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('can i register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 18:20:44 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 12.169979095459)
+2025-03-05 18:20:53 - User: i already have an account
+2025-03-05 18:20:53 - Normalized Input: i already have an account
+2025-03-05 18:20:53 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i already have an account' ORDER BY priority DESC LIMIT 1
+2025-03-05 18:20:53 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i already have an account' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i already have an account' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-05 18:20:53 - Matched Response: I’m sorry to hear that. Could you describe the issue so I can help? (Score: 12.932771682739)
+2025-03-09 21:39:56 - User: hello
+2025-03-09 21:39:56 - Normalized Input: hello
+2025-03-09 21:39:56 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-09 21:39:56 - Matched Response: Hi there! What can I do for you?
+2025-03-09 21:40:13 - User: what is auction
+2025-03-09 21:40:13 - Normalized Input: what is auction
+2025-03-09 21:40:13 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is auction' ORDER BY priority DESC LIMIT 1
+2025-03-09 21:40:13 - Matched Response: An auction is a process where buyers place competitive bids on items. The highest bidder wins.
+2025-03-10 20:05:23 - User: hello
+2025-03-10 20:05:23 - Normalized Input: hello
+2025-03-10 20:05:23 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-10 20:05:23 - Matched Response: Hi there! What can I do for you?
+2025-03-10 20:05:55 - User: i want to register as a seller
+2025-03-10 20:05:55 - Normalized Input: i want to register as a seller
+2025-03-10 20:05:55 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i want to register as a seller' ORDER BY priority DESC LIMIT 1
+2025-03-10 20:05:55 - Matched Response: Go to the seller registration page, provide your business details, and submit your application for approval.
+2025-03-10 20:06:27 - User: i was approved now i want to sell
+2025-03-10 20:06:27 - Normalized Input: i was approved now i want to sell
+2025-03-10 20:06:27 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i was approved now i want to sell' ORDER BY priority DESC LIMIT 1
+2025-03-10 20:06:27 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('i was approved now i want to sell' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('i was approved now i want to sell' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-10 20:06:27 - Matched Response: A bid allows you to compete for an item, while a buy-it-now price lets you purchase the item immediately at a set price. (Score: 17.884252548218)
+2025-03-10 20:06:55 - User: how can i sell
+2025-03-10 20:06:55 - Normalized Input: how can i sell
+2025-03-10 20:06:55 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how can i sell' ORDER BY priority DESC LIMIT 1
+2025-03-10 20:06:55 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how can i sell' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how can i sell' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-10 20:06:55 - Matched Response: To sell an item, you need to register as a seller and list your auction from the **Seller Dashboard**. (Score: 8.5103073120117)
+2025-03-10 20:07:33 - User: where do i find seller dashboard
+2025-03-10 20:07:33 - Normalized Input: where do i find seller dashboard
+2025-03-10 20:07:33 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'where do i find seller dashboard' ORDER BY priority DESC LIMIT 1
+2025-03-10 20:07:33 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('where do i find seller dashboard' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('where do i find seller dashboard' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-10 20:07:33 - Matched Response: You can message the seller directly through the auction item page. (Score: 10.142936706543)
+2025-03-10 20:09:32 - User: i already have an accoount
+2025-03-10 20:09:32 - Normalized Input: i already have an accoount
+2025-03-10 20:09:32 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'i already have an accoount' ORDER BY priority DESC LIMIT 1
+2025-03-10 20:09:32 - Matched Response: that is great now you can do various activities within your account such as bidding
+2025-03-10 20:15:01 - User: how can i sell
+2025-03-10 20:15:01 - Normalized Input: how can i sell
+2025-03-10 20:15:01 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how can i sell' ORDER BY priority DESC LIMIT 1
+2025-03-10 20:15:01 - Matched Response: To sell an item on your Home page click My Profile then on my profile go to add item the follow the instructions
+2025-03-10 20:16:03 - User: hello
+2025-03-10 20:16:03 - Normalized Input: hello
+2025-03-10 20:16:03 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-10 20:16:03 - Matched Response: Hi there! What can I do for you?
+2025-03-10 20:16:20 - User: how can i register
+2025-03-10 20:16:20 - Normalized Input: how can i register
+2025-03-10 20:16:20 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how can i register' ORDER BY priority DESC LIMIT 1
+2025-03-10 20:16:20 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('how can i register' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('how can i register' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-10 20:16:20 - Matched Response: Yes, you can create an account for free! Just click the **Sign Up** button and follow the steps. You can register as a **buyer**, **seller**, or both. It’s quick and easy! (Score: 12.169979095459)
+2025-03-10 20:16:40 - User: what are the steps
+2025-03-10 20:17:44 - User: hello
+2025-03-10 20:17:44 - Normalized Input: hello
+2025-03-10 20:17:44 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-10 20:17:44 - Matched Response: Hi there! What can I do for you?
+2025-03-10 20:17:59 - User: what is auction
+2025-03-10 20:17:59 - Normalized Input: what is auction
+2025-03-10 20:17:59 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what is auction' ORDER BY priority DESC LIMIT 1
+2025-03-10 20:17:59 - Matched Response: An auction is a process where buyers place competitive bids on items. The highest bidder wins.
+2025-03-10 20:18:11 - User: what are the rules
+2025-03-10 20:18:11 - Normalized Input: what are the rules
+2025-03-10 20:18:11 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'what are the rules' ORDER BY priority DESC LIMIT 1
+2025-03-10 20:18:11 - Keyword Matching Query: SELECT bot_response, MATCH(keywords) AGAINST('what are the rules' IN BOOLEAN MODE) AS score FROM chatbot_responses WHERE MATCH(keywords) AGAINST('what are the rules' IN BOOLEAN MODE) ORDER BY score DESC, priority DESC LIMIT 1
+2025-03-10 20:18:11 - Matched Response: GBG Auction has a set of rules to ensure fair and secure transactions. Here are the key guidelines:
+1. **Bidding Rules**: Bids are binding, and the highest bid wins.
+2. **Seller Rules**: Sellers must provide accurate descriptions and images of items.
+3. **Buyer Rules**: Buyers must pay within the specified time after winning.
+4. **Prohibited Items**: Certain items (e.g., illegal goods) are not allowed.
+5. **Fees**: Sellers pay a commission fee, and buyers may pay a buyer's premium.
+6. **Disputes**: Contact support for help with disputes.
+For full details, visit our [Terms and Conditions](#) page or contact support. (Score: 9.2079248428345)
+2025-03-11 16:28:38 - User: hello
+2025-03-11 16:28:38 - Normalized Input: hello
+2025-03-11 16:28:38 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'hello' ORDER BY priority DESC LIMIT 1
+2025-03-11 16:28:38 - Matched Response: Hi there! What can I do for you?
+2025-03-11 16:28:52 - User: how can i bid
+2025-03-11 16:28:52 - Normalized Input: how can i bid
+2025-03-11 16:28:52 - Exact Matching Query: SELECT bot_response FROM chatbot_responses WHERE LOWER(user_input) = 'how can i bid' ORDER BY priority DESC LIMIT 1
+2025-03-11 16:28:52 - Matched Response: To place a bid, log in to your account, go to the auction page, select an item, and enter your bid amount.
